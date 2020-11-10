@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall   CMakeFiles/FactoryDemo.dir/main.cpp.o CMakeFiles/FactoryDemo.dir/baseclass.cpp.o CMakeFiles/FactoryDemo.dir/derivedclassone.cpp.o CMakeFiles/FactoryDemo.dir/derivedclasstwo.cpp.o  -o ../bin/FactoryDemo 

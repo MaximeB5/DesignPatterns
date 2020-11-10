@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/maxime/Bureau/CppProjects/DesignPatterns/Creational/Factory/baseclass.hpp
+
+/home/maxime/Bureau/CppProjects/DesignPatterns/Creational/Factory/derivedclassone.cpp
+derivedclassone.hpp
+/home/maxime/Bureau/CppProjects/DesignPatterns/Creational/Factory/derivedclassone.hpp
+iostream
+-
+
+/home/maxime/Bureau/CppProjects/DesignPatterns/Creational/Factory/derivedclassone.hpp
+baseclass.hpp
+/home/maxime/Bureau/CppProjects/DesignPatterns/Creational/Factory/baseclass.hpp
+
+/home/maxime/Bureau/CppProjects/DesignPatterns/Creational/Factory/derivedclasstwo.cpp
+derivedclasstwo.hpp
+/home/maxime/Bureau/CppProjects/DesignPatterns/Creational/Factory/derivedclasstwo.hpp
+iostream
+-
+
+/home/maxime/Bureau/CppProjects/DesignPatterns/Creational/Factory/derivedclasstwo.hpp
+baseclass.hpp
+/home/maxime/Bureau/CppProjects/DesignPatterns/Creational/Factory/baseclass.hpp
+
